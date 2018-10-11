@@ -1,0 +1,51 @@
+//and yet she still won't let me see her stuff
+//I'll have to steal it one day and do it myself (mwha ha ha)
+
+git
+    opens some stuff for a git menu
+pwd
+    lists all the directories you're in
+        print working directory
+c9
+    this is specific to c9 and opens a file if you use it
+cat
+    prints out all the code you have in some file that you define
+cd ..
+    brings you back to the previous parent directory
+touch
+    make new file
+mkdir
+    makes new directory
+rm
+    removes files
+rm -r
+    removes directories
+        normally, if you wanted to delete folders with folders in them, you'd have to be really careful
+.file
+    this is a hidden file
+ls -a
+    shows hidden files
+ls -alt
+    presents the files as a table with more information
+ls -aR
+    look like a cool hacker :)
+tree
+    lists absolutely everything
+^C
+colormgr
+cd ~/workspace/
+    to get you back up and running
+cp
+    copies files
+nano
+    text editor that you use when you're in terminal
+vim
+    another, but freaky, text editor
+    exit with escape, shift, colon, w, q, enter
+mv
+    move files
+mv file file2
+    changes file name to file2
+man
+    manual page
+    type quit to leave
